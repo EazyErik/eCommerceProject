@@ -1,0 +1,27 @@
+[
+    {
+        "ProductName":"Laptop",
+        "ProductPicture":"Picture",
+        "ProductDescription":"Description",
+        "ProductPrice": 1499
+    },
+
+    {
+        "ProductName":"Shoes",
+        "ProductPicture":"Picture",
+        "ProductDescription":"Description",
+        "ProductPrice": 149
+    },
+    {
+        "ProductName":"TV",
+        "ProductPicture":"Picture",
+        "ProductDescription":"Description",
+        "ProductPrice": 799
+    },
+    {
+        "ProductName":"PS5",
+        "ProductPicture":"Picture",
+        "ProductDescription":"Description",
+        "ProductPrice": 700
+    }
+]
