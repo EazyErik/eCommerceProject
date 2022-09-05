@@ -3,43 +3,50 @@
         "ProductName":"Laptop",
         "ProductPicture":"https://cdn.pocket-lint.com/r/s/970x/assets/images/149624-laptops-review-hands-on-microsoft-surface-laptop-3-13-5-inch-review-image1-ndijeqz6fw-jpg.webp",
         "ProductDescription":"Description",
-        "ProductPrice": 1499
+        "ProductPrice": 1499,
+        "ProductId":"ProductId1"
     },
 
     {
         "ProductName":"Shoes",
         "ProductPicture":"https://cdn.pocket-lint.com/r/s/970x/assets/images/149624-laptops-review-hands-on-microsoft-surface-laptop-3-13-5-inch-review-image1-ndijeqz6fw-jpg.webp",
         "ProductDescription":"Description",
-        "ProductPrice": 149
+        "ProductPrice": 149,
+        "ProductId":"ProductId2"
     },
     {
         "ProductName":"TV",
         "ProductPicture":"https://images.philips.com/is/image/PhilipsConsumer/70PUS6504_12-IMS-de_DE?wid=840&hei=720&$jpglarge$",
         "ProductDescription":"Description",
-        "ProductPrice": 799
+        "ProductPrice": 799,
+        "ProductId":"ProductId3"
     },
     {
         "ProductName":"PS5",
         "ProductPicture":"https://cdn.pocket-lint.com/r/s/970x/assets/images/149624-laptops-review-hands-on-microsoft-surface-laptop-3-13-5-inch-review-image1-ndijeqz6fw-jpg.webp",
         "ProductDescription":"Description",
-        "ProductPrice": 700
+        "ProductPrice": 700,
+        "ProductId":"ProductId4"
     },
     {
         "ProductName":"Katze",
         "ProductPicture":"https://cdn.pocket-lint.com/r/s/970x/assets/images/149624-laptops-review-hands-on-microsoft-surface-laptop-3-13-5-inch-review-image1-ndijeqz6fw-jpg.webp",
         "ProductDescription":"Description",
-        "ProductPrice": 700
+        "ProductPrice": 700,
+        "ProductId":"ProductId5"
     },
     {
         "ProductName":"Teller",
         "ProductPicture":"https://cdn.pocket-lint.com/r/s/970x/assets/images/149624-laptops-review-hands-on-microsoft-surface-laptop-3-13-5-inch-review-image1-ndijeqz6fw-jpg.webp",
         "ProductDescription":"Description",
-        "ProductPrice": 700
+        "ProductPrice": 700,
+        "ProductId":"ProductId6"
     },
     {
         "ProductName":"Socken",
         "ProductPicture":"https://cdn.pocket-lint.com/r/s/970x/assets/images/149624-laptops-review-hands-on-microsoft-surface-laptop-3-13-5-inch-review-image1-ndijeqz6fw-jpg.webp",
         "ProductDescription":"Description",
-        "ProductPrice": 700
+        "ProductPrice": 700,
+        "ProductId":"ProductId7"
     }
 ]
