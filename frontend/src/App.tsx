@@ -5,7 +5,7 @@ import {
     Routes,
     Route,
 } from "react-router-dom";
-// import ProductDetails from './pages/ProductDetails';
+ import ProductDetails from './pages/ProductDetails';
 
 
 
@@ -18,7 +18,7 @@ function App() {
                     
             <Routes>
                 <Route path="/" element={<Home />} />
-                {/* <Route path="/productDetails:productId" element={<ProductDetails />} /> */}
+                <Route path="/productDetails=:productId" element={<ProductDetails />} /> 
                 
  
             </Routes>
