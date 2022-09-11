@@ -31,5 +31,10 @@ public class ProductController {
         return productService.getAllProducts();
     }
 
+    @PostMapping("/save")
+    private final Product saveProduct(@RequestBody Product product) {
+        return productService.save(product);
+    }
+
 
 }
